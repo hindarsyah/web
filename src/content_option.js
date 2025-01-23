@@ -73,7 +73,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://scontent-cgk1-2.cdninstagram.com/v/t51.2885-15/20482324_1389728787784006_3450701279657984000_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDA4eDEwMDguc2RyLmYyODg1LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=scontent-cgk1-2.cdninstagram.com&_nc_cat=110&_nc_ohc=qIPZLsJWaH0Q7kNvgHarVn9&_nc_gid=8ec9a2d3573e4db2b6920d3d080e3046&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=MTU3MjQ4NjE1MDgxNDk2NDY4Mw%3D%3D.3-ccb7-5&oh=00_AYDpKjv1UVHYKfykevoTBvikmoULPSdpbWAaMFHx9ITFYg&oe=6797A3AA&_nc_sid=22de04",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
