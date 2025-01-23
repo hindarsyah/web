@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "ZKFAH";
 const meta = {
     title: "John Doe",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m ZKFAH",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -21,17 +21,17 @@ const dataabout = {
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
-        where: "YAdfi",
+        where: "zk_jack",
         date: "2020",
     },
     {
         jobtitle: "Designer of week",
-        where: "Jamalya",
+        where: "zk_yudhi",
         date: "2019",
     },
     {
         jobtitle: "Designer of week",
-        where: "ALquds",
+        where: "zk_doel",
         date: "2019",
     },
 ];
