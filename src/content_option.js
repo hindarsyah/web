@@ -1,7 +1,7 @@
 const logotext = "ZKFAH";
 const meta = {
     title: "zkfah",
-    description: "I’m zkfah data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m zkfah data scientist _ Full stack devloper,currently working in Indonesia",
 };
 
 const introdata = {
